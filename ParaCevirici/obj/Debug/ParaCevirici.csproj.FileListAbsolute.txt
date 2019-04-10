@@ -1,8 +1,0 @@
-c:\users\htosun\documents\visual studio 2015\Projects\ParaCevirici\ParaCevirici\bin\Debug\ParaCevirici.exe.config
-c:\users\htosun\documents\visual studio 2015\Projects\ParaCevirici\ParaCevirici\bin\Debug\ParaCevirici.exe
-c:\users\htosun\documents\visual studio 2015\Projects\ParaCevirici\ParaCevirici\bin\Debug\ParaCevirici.pdb
-c:\users\htosun\documents\visual studio 2015\Projects\ParaCevirici\ParaCevirici\obj\Debug\ParaCevirici.csprojResolveAssemblyReference.cache
-c:\users\htosun\documents\visual studio 2015\Projects\ParaCevirici\ParaCevirici\obj\Debug\ParaCevirici.exe
-c:\users\htosun\documents\visual studio 2015\Projects\ParaCevirici\ParaCevirici\obj\Debug\ParaCevirici.pdb
-c:\users\htosun\documents\visual studio 2015\Projects\ParaCevirici\ParaCevirici\bin\Debug\Vse.Web.Serialization.dll
-c:\users\htosun\documents\visual studio 2015\Projects\ParaCevirici\ParaCevirici\bin\Debug\Vse.Web.Serialization.pdb
